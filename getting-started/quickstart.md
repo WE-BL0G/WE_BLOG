@@ -1,23 +1,65 @@
+---
+description: Use this template to create your own blogs
+icon: play
+coverY: 0
+---
+
 # Quickstart
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+The introduction about the blog content goes here.
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
+> Write some quote that is relevant to the Blog content.
 
-### Import
+### Sub Heading 1
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
-<div data-full-width="false">
+<figure><img src="../.gitbook/assets/junia-art-photo.png" alt=""><figcaption><p>Provide images for the necessary contents</p></figcaption></figure>
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+### Sub Heading 2
 
-</div>
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
-### Sync a repository
+```java
+//If the blog contains some code, write it in this block.
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+// Example code
+
+public static void main(Strings[] args){
+    System.out.println("Welcome to WE_BLOG");
+}
+
+// You can write your output here
+// Welcome to WE_BLOG
+```
+
+### Sub Heading 3
+
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+
+* Use this list template (if necessary)
+* List 0
+* List 1
+* List 2
+* List 3
+
+Include Video link in the below format (If necessary but not mandatory)
+
+{% embed url="https://i.imgur.com/bJxFah1.gif" %}
+Do not forget to provide figure caption
+{% endembed %}
+
+### Reference Links
+
+Provide link to the codebase or other reference link (necessary)
+
+1. Link 1
+2. Link 2
+
+### Conclusion
+
+End the blog with a conclusion
+
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,

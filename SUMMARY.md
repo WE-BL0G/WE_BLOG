@@ -4,14 +4,15 @@
 
 ## Getting Started
 
+* [Intro to Blogging](getting-started/intro-to-blogging.md)
+* [Set Up](getting-started/set-up.md)
 * [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Publish your Blog](getting-started/publish-your-docs.md)
 
-## Basics
+## JavaScript
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Page 1](javascript/page-1.md)
+
+## Life Style
+
+* [Page 2](life-style/page-2.md)
